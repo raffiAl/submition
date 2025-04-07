@@ -129,6 +129,12 @@ a {
     gap: 2em;
   }
 
+  .wrapper section {
+    background: #ededed;
+    padding: 1em;
+    border-radius: 10px;
+  }
+
   .title {
     margin-bottom: 2.5rem;
 
@@ -160,6 +166,8 @@ a {
     display: flex;
     flex-direction: column;
     gap: 1em;
+    background: #ededed;
+    border-radius: 100px 100px 0 0;
   }
 
   .asside h1 {
